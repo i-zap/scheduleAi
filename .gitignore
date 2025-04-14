@@ -1,1 +1,5 @@
-venv
+backend-app/venv
+backend-app/backend/gpt4all-models/
+frontend-app/node_modules
+frontend-app/.next
+frontend-app/.gitignore
