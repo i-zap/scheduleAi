@@ -4,3 +4,6 @@ flask-cors
 apscheduler 
 openai 
 python-dotenv
+flask_cors
+flask_pymongo
+llama-cpp-python
