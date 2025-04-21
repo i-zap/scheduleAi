@@ -1,5 +1,6 @@
 backend-app/venv
-backend-app/backend/gpt4all-models/
+backend-app/models/
 frontend-app/node_modules
 frontend-app/.next
 frontend-app/.gitignore
+backend-app/__pycache__
